@@ -11,7 +11,7 @@ class Cat
   end
   
   def mood
-    puts "nervous"
+     "nervous"
   end
 
 end
