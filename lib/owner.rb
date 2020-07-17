@@ -4,5 +4,7 @@
 #be able to sell their pets
 
 class Owner
-  # code goes here
+  
+  attr_accessor :name
+
 end
