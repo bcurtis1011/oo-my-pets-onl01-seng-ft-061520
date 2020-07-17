@@ -16,4 +16,8 @@ class Dog
   def mood
     @mood
   end
+  
+  def self.all
+    @@all
+  end
 end
