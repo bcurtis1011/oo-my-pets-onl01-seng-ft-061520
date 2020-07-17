@@ -32,7 +32,7 @@ class Owner
     @@all.clear
   end
   
-  def cats
+  def self.cats
     Cats.all
     # expect(@owner.cats.count).to eq(3)
     #it "returnsa a collection of all the cats that belong to the owner" do
