@@ -33,6 +33,7 @@ class Owner
   end
   
   def cats
+    # expect(@owner.cats.count).to eq(3)
     
   end
 end
