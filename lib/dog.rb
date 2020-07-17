@@ -7,4 +7,8 @@ class Dog
     @name = name 
     @owner = owner
   end
+  
+  def mood
+    @mood
+  end
 end
